@@ -1,6 +1,6 @@
-### upgrade-restriction.ps1
+## upgrade-restriction.ps1
 
-ALL CREDITS for this script goes to [alkampfergit](https://gist.github.com/alkampfergit) & [nouseforname](https://gist.github.com/nouseforname).
+ALL CREDIT for this script goes to [alkampfergit](https://gist.github.com/alkampfergit) & [nouseforname](https://gist.github.com/nouseforname).
 
 This is just an step-by-step instruction for dumb people like me.
 
